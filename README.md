@@ -1,2 +1,2 @@
 # my_gists
-Just a collection of my gists
+https://gist.github.com/nspoke
